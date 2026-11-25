@@ -1,4 +1,8 @@
 # Observed dependencies; unpinned because original versions were not recorded.
+numpy
+pandas
+scipy
+matplotlib
 pyomo
 requests
 beautifulsoup4
