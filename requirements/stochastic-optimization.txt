@@ -1,0 +1,5 @@
+# Observed dependencies; unpinned because original versions were not recorded.
+numpy
+matplotlib
+pyomo
+highspy

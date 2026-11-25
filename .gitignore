@@ -1,0 +1,9 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+*.pyc
+*.log
+*.zip
+*.xlsx
+*.csv
+!docs/provenance.csv

@@ -1,0 +1,11 @@
+# Observed dependencies; unpinned because original versions were not recorded.
+pyomo
+requests
+beautifulsoup4
+aiohttp
+nest_asyncio
+understat
+scikit-learn
+imbalanced-learn
+xgboost
+seaborn

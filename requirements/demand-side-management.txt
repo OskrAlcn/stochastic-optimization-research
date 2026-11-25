@@ -1,0 +1,4 @@
+# Observed dependencies; unpinned because original versions were not recorded.
+numpy
+scipy
+matplotlib
